@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Oleg Proskurin - aka usulpro! <image src="https://github.com/usulpro/UsulPro/assets/14885189/01193203-a891-47d3-8f99-71cf54f3a6ac" width=80 alt="Team building"/> <image src="https://github.com/usulpro/UsulPro/assets/14885189/6df0914f-edf8-46d7-a29f-2e5a7f8acd4e" width=80 alt="Team building"/> <image src="https://github.com/usulpro/UsulPro/assets/14885189/38895aa9-f8ff-4178-baa2-37291a3c58c4" width=80 alt="Team building"/>
+# 👋 Hi there, I'm Oleg Proskurin - aka usulpro! <image src="https://github.com/usulpro/UsulPro/assets/14885189/01193203-a891-47d3-8f99-71cf54f3a6ac" width=60 alt="Team building"/> <image src="https://github.com/usulpro/UsulPro/assets/14885189/6df0914f-edf8-46d7-a29f-2e5a7f8acd4e" width=60 alt="Team building"/> <image src="https://github.com/usulpro/UsulPro/assets/14885189/38895aa9-f8ff-4178-baa2-37291a3c58c4" width=60 alt="Team building"/>
 
 
 🌟 **Tech Lead at FocusReactive**
