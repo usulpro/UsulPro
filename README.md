@@ -5,7 +5,9 @@
 
 <image src="https://github.com/usulpro/UsulPro/assets/14885189/5a72cad2-e5d7-4b95-8356-3d99e4ceecc9"  alt="Team building"/>
 
-I'm currently leading projects and mentoring developers at [FocusReactive](https://focusreactive.com/), a consultancy for the modern web. Our team specializes in NextJS, with expertise in Static Site Generation (SSG), Server-Side Rendering (SSR), SEO optimizations, and Headless CMS technologies. My role involves conducting technical interviews, innovating, and enhancing our development approaches. I'm passionate about building a better world together through technology and collaboration.
+I'm currently leading projects and mentoring developers at [FocusReactive](https://focusreactive.com/), a consultancy for the modern web. Our team specializes in NextJS, with expertise in Static Site Generation, Server-Side Rendering, SEO optimizations, and Headless CMS technologies. My role involves conducting technical interviews, innovating, and enhancing our development approaches. I'm passionate about building a better world together through technology and collaboration.
+
+
 
 🔥 **Open Source Enthusiast & Creator of React Theming**
 
