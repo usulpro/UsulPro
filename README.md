@@ -3,13 +3,15 @@
 
 🌟 **Tech Lead at FocusReactive**
 
-I'm currently leading projects and mentoring developers at [FocusReactive](https://focusreactive.com/), a consultancy for the modern web. Our team specializes in NextJS, with expertise in Static Site Generation (SSG), Server-Side Rendering (SSR), SEO optimizations, and Headless CMS technologies. My role involves conducting technical interviews, innovating, and enhancing our development approaches. I'm passionate about building a better world together through technology and collaboration.
-
 <image src="https://github.com/usulpro/UsulPro/assets/14885189/5a72cad2-e5d7-4b95-8356-3d99e4ceecc9"  alt="Team building"/>
+
+I'm currently leading projects and mentoring developers at [FocusReactive](https://focusreactive.com/), a consultancy for the modern web. Our team specializes in NextJS, with expertise in Static Site Generation (SSG), Server-Side Rendering (SSR), SEO optimizations, and Headless CMS technologies. My role involves conducting technical interviews, innovating, and enhancing our development approaches. I'm passionate about building a better world together through technology and collaboration.
 
 🔥 **Open Source Enthusiast & Creator of React Theming**
 
-I'm deeply involved in the open source community and the proud creator of [React Theming](https://github.com/react-theming). This project started during my participation in the revival of Storybook.
+![OSSProjects2](https://github.com/usulpro/UsulPro/assets/14885189/01fae83d-1d1d-4918-a26a-16e12a42984c)
+
+I'm deeply involved in the open-source community and the proud creator of [React Theming](https://github.com/react-theming). This project started during my participation in the revival of Storybook. My other projects and packages can be found in my [NPM](https://www.npmjs.com/settings/usulpro/packages) profile.
 
 📝 **Blogger & Knowledge Sharer**
 
