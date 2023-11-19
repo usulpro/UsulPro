@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm Oleg Proskurin - aka usulpro!
+# 👋 Hi there, I'm Oleg Proskurin - aka usulpro! <image src="https://github.com/usulpro/UsulPro/assets/14885189/01193203-a891-47d3-8f99-71cf54f3a6ac" width=80 alt="Team building"/> <image src="https://github.com/usulpro/UsulPro/assets/14885189/6df0914f-edf8-46d7-a29f-2e5a7f8acd4e" width=80 alt="Team building"/> <image src="https://github.com/usulpro/UsulPro/assets/14885189/38895aa9-f8ff-4178-baa2-37291a3c58c4" width=80 alt="Team building"/>
+
 
 🌟 **Tech Lead at FocusReactive**
 
 I'm currently leading projects and mentoring developers at [FocusReactive](https://focusreactive.com/), a consultancy for the modern web. Our team specializes in NextJS, with expertise in Static Site Generation (SSG), Server-Side Rendering (SSR), SEO optimizations, and Headless CMS technologies. My role involves conducting technical interviews, innovating, and enhancing our development approaches. I'm passionate about building a better world together through technology and collaboration.
 
-<image src="[https://github.com/usulpro/UsulPro/assets/14885189/ed6bd254-9878-437f-bd7b-e890203e6b59](https://github.com/usulpro/UsulPro/assets/14885189/01ef7937-1d13-4ac2-8edf-4ff6325179a7)"  alt="Team building"/>
-
+<image src="https://github.com/usulpro/UsulPro/assets/14885189/5a72cad2-e5d7-4b95-8356-3d99e4ceecc9"  alt="Team building"/>
 
 🔥 **Open Source Enthusiast & Creator of React Theming**
 
