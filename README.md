@@ -45,7 +45,12 @@ Catch my latest AI insights and explorations on [Twitter](https://twitter.com/us
 
 🌴 **Living the Island Life**
 
-I'm currently enjoying life on an island in the Gulf of Thailand, exploring new horizons both virtually and physically.
+<image src="https://github.com/usulpro/UsulPro/assets/14885189/8d2635be-213b-473f-850d-4e8ebca6d304" width="500" alt="Island Life"/>
+
+
+I'm currently enjoying life on an island in the Gulf of Thailand. More than just my home, it's a daily dose of inspiration. 🌺🌅 Surrounded by natural beauty, it sparks positivity, ignites creativity, and ensures a perfect work-life balance. 🧠💼
+
+Here, each day is a celebration of beauty, a chance to think positively, and a treasure of family moments. 🌞👨‍👩‍👧‍👦✨
 
 ---
 
@@ -53,7 +58,7 @@ I'm currently enjoying life on an island in the Gulf of Thailand, exploring new 
 Follow me on [Twitter](https://twitter.com/usulpro) for updates on my articles and my experiences with image generation.
 
 🌟 **Follow me on GitHub**
-Stay tuned with my latest projects and contributions here on GitHub.
+Stay tuned with my latest projects and contributions here on [GitHub](https://github.com/usulpro?tab=followers).
 
 🎉 **Thank you for visiting my profile!**
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or need assistance.
