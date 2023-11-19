@@ -1,7 +1,50 @@
-Hey! I'm Oleg Proskurin - a creator of [React Theming](https://github.com/react-theming)
+# 👋 Hi there, I'm Oleg Proskurin - aka usulpro!
 
-[![image](https://user-images.githubusercontent.com/14885189/152687206-b5982d08-d4cc-483a-afe5-810f42775620.png)](https://github.com/react-theming)
+🌟 **Tech Lead at FocusReactive**
 
-Also I'm a software engineer at awesome [FocusReactive](https://focusreactive.com/about/#team)
+I'm currently leading projects and mentoring developers at [FocusReactive](https://focusreactive.com/). My role involves conducting technical interviews, innovating, and enhancing our development approaches. I'm passionate about building a better world together through technology and collaboration.
 
-<a href="https://app.daily.dev/olegproskurin"><img src="https://api.daily.dev/devcards/4ad8b403c33a4e15a2fc08856110fc44.png?r=1uv" width="200" alt="Oleg Proskurin's Dev Card"/></a>
+🔥 **Open Source Enthusiast & Creator of React Theming**
+
+I'm deeply involved in the open source community and the proud creator of [React Theming](https://github.com/react-theming). This project started during my participation in the revival of Storybook.
+
+📝 **Blogger & Knowledge Sharer**
+
+I love sharing my expertise through writing:
+- Deep tech articles on the [FocusReactive Blog](https://focusreactive.com/blog/author/usulpro/). Topics include Headless CMS, NextJS, eCommerce, SEO, and Performance optimizations.
+- Personal insights on frontend and backend development on [DEV Community](https://dev.to/usulpro).
+
+🌍 **Community Contributor & Mentor**
+
+I'm open to helping other developers grow their skills and happy to share my knowledge with the community. Feel free to reach out!
+
+📚 **Check out some of my articles:**
+- [Sanity CMS for Tipico Platform](https://focusreactive.com/sanity-cms-for-tipico-platform/)
+- [Must-know Updates in Next.js v14](https://dev.to/usulpro/save-time-and-stay-informed-9-must-know-updates-in-nextjs-v14-5fnp)
+- [Next.js with Linaria & Storybook](https://focusreactive.com/nextjs-with-linaria-storybook/)
+- [How React Forget will Make useMemo and useCallback Hooks Redundant](https://dev.to/usulpro/how-react-forget-will-make-react-usememo-and-usecallback-hooks-absolutely-redundant-4l68)
+- [Mastering Headless CMS: An Engineer's Perspective](https://dev.to/usulpro/mastering-headless-cms-an-engineers-perspective-6fm)
+
+🤖 **AI Enthusiast**
+
+I'm a huge fan of AI tools and actively follow the progress in AI image generation. Check out my works on [Leonardo AI](https://app.leonardo.ai/profile/usulpro) and [Playground AI](https://playgroundai.com/profile/cle08yksw00kis601ufk3kscf).
+
+🌴 **Living the Island Life**
+
+I'm currently enjoying life on an island in the Gulf of Thailand, exploring new horizons both virtually and physically.
+
+---
+
+🐦 **Let's Connect!**
+Follow me on [Twitter](https://twitter.com/usulpro) for updates on my articles and my experiences with image generation.
+
+🌟 **Follow me on GitHub**
+Stay tuned with my latest projects and contributions here on GitHub.
+
+🎉 **Thank you for visiting my profile!**
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or need assistance.
+
+---
+
+<a href="https://app.daily.dev/olegproskurin"><img src="https://api.daily.dev/devcards/4ad8b403c33a4e15a2fc08856110fc44.png?r=1uv" width="160" alt="Oleg Proskurin's Dev Card"/></a>
+
