@@ -3,9 +3,13 @@
 
 🌟 **Tech Lead at FocusReactive**
 
+I'm currently leading projects and mentoring developers at [FocusReactive](https://focusreactive.com/), a consultancy for the modern web. Our team specializes in NextJS, with expertise in Static Site Generation, Server-Side Rendering, SEO optimizations, eCommerce, and Headless CMS technologies. 
+
+**Need Our Expertise?** If you're seeking support, guidance, or hands-on expertise for your project, our team is eager to assist. We approach each project with the same enthusiasm and commitment, ready to collaborate and contribute with our wealth of knowledge and proactive spirit. We're all raising our hands ready to engage in a new project  🙋‍♂️🙋‍♀️, we bring this enthusiasm and readiness to every project
+
 <image src="https://github.com/usulpro/UsulPro/assets/14885189/5a72cad2-e5d7-4b95-8356-3d99e4ceecc9"  alt="Team building"/>
 
-I'm currently leading projects and mentoring developers at [FocusReactive](https://focusreactive.com/), a consultancy for the modern web. Our team specializes in NextJS, with expertise in Static Site Generation, Server-Side Rendering, SEO optimizations, and Headless CMS technologies. My role involves conducting technical interviews, innovating, and enhancing our development approaches. I'm passionate about building a better world together through technology and collaboration.
+My role involves conducting technical interviews, innovating, and enhancing our development approaches. I'm passionate about building a better world together through technology and collaboration.
 
 
 
