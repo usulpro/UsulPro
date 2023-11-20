@@ -42,16 +42,13 @@ I'm open to helping other developers grow their skills and happy to share my kno
 
 ![AiImages](https://github.com/usulpro/UsulPro/assets/14885189/a5dc7c0b-80e9-4b4f-9367-25e2fb797d32)
 
-🤖 AI Enthusiast & Innovator
-
-Passionate about AI's transformative power, I actively explore image generation with tools like Leonardo AI 🎨 and Playground AI 🌐. My AI journey extends to code automation 🤖💻 and content generation, where I leverage AI tools such as Chat GPT 🗣️, WriteSonic ✍️, Notion AI 📝, Dall-e 🎭, MindOS 🧠, and Perplexity 🤔.
+Passionate about AI's transformative power, I actively explore image generation with tools like [Leonardo AI](https://app.leonardo.ai/profile/usulpro) 🎨 and [Playground AI](https://playgroundai.com/profile/cle08yksw00kis601ufk3kscf) 🌐. My AI journey extends to code automation 🤖💻 and content generation, where I leverage AI tools such as Chat GPT 🗣️, WriteSonic ✍️, Notion AI 📝, Dall-e 🎭, MindOS 🧠, and Perplexity 🤔.
 
 I'm constantly pushing the boundaries of what AI can do, experimenting with these tools and incorporating them into my work and daily life 🚀. From enhancing software development to fueling my creative writing 📚, these AI tools have revolutionized the way I approach tasks and challenges 🌟.
 
 My journey with AI is not just about leveraging these tools, but about constantly learning and growing 🌱. I dive deep into understanding the algorithms behind them, honing my skills to tackle both simple and intricate tasks more effectively 🔍. The results I've achieved have been nothing short of incredible, and I'm thrilled to share my thoughts and experiences with others 🌍.
 
-Join me on Twitter for captivating discussions, insightful updates, and valuable tips on harnessing AI in technology and content creation 💡🗨️.
-
+Join me on [Twitter](https://twitter.com/usulpro) for captivating discussions, insightful updates, and valuable tips on harnessing AI in technology and content creation 💡🗨️.
 
 🌴 **Living the Island Life**
 
