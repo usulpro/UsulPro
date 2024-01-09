@@ -72,5 +72,7 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 
 ---
 
-<a href="https://app.daily.dev/olegproskurin"><img src="https://api.daily.dev/devcards/4ad8b403c33a4e15a2fc08856110fc44.png?r=1uv" width="160" alt="Oleg Proskurin's Dev Card"/></a>
+[![image](https://github.com/usulpro/UsulPro/assets/14885189/9acbc7cc-2873-4bfd-b832-0c74d5c28a2f)](https://www.buymeacoffee.com/usulpro)
+
+
 
